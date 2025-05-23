@@ -319,7 +319,7 @@ while($data5=mysqli_fetch_array($runquery5)){
     <footer id="footer">
         <div class="container">
             <div class="credits">
-            Desarrollado por <a href="https://github.com/LuisRSoto" target="_blank"> Carlos Saint Hilaire </a>
+            Desarrollado por <a href="https://github.com/SAmuelX100" target="_blank"> Carlos Saint Hilaire </a>
             </div>
         </div>
     </footer>
